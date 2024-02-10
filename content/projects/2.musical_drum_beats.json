@@ -1,0 +1,8 @@
+{
+    "name": "Musical Drum Beats",
+    "url": "https://musicaldrumbeats.netlify.app/",
+    "description": "Play drum beats with your keyboard or mouse",
+    "thumbnail": "/projects/beats.png",
+    "status": "Active",
+    "opensource": true
+}

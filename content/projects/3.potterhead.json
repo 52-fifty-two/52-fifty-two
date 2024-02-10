@@ -1,0 +1,8 @@
+{
+    "name": "Potterhead",
+    "url": "https://potter-head.netlify.app/",
+    "description": "Harry Potter fan site with spells",
+    "thumbnail": "/projects/potter.png",
+    "status": "Active",
+    "opensource": true
+}

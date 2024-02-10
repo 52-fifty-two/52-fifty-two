@@ -1,0 +1,8 @@
+{
+    "name": "SaaS Builder",
+    "url": "https://saas-builder.netlify.app/",
+    "description": "Build your own SaaS with this open-source project",
+    "thumbnail": "/projects/builder.png",
+    "status": "Active",
+    "opensource": true
+}
